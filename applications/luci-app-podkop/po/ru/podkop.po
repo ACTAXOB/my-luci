@@ -13,17 +13,29 @@ msgstr "Дополнительные настройки"
 msgid "Secondary Config"
 msgstr "Второй маршрут"
 
-msgid "Triple Config"
-msgstr "Третий маршрут"
-
-msgid "Square Config"
-msgstr "Четвертый маршрут"
-
 msgid "Secondary VPN/Proxy Enable"
 msgstr "Включить второй VPN/Proxy"
 
 msgid "Enable secondary VPN/Proxy configuration"
 msgstr "Включить конфигурацию второго VPN/Proxy"
+
+msgid "Triple Config"
+msgstr "Третий маршрут"
+
+msgid "Triple VPN/Proxy Enable"
+msgstr "Включить третий VPN/Proxy"
+
+msgid "Enable secondary VPN/Proxy configuration"
+msgstr "Включить конфигурацию третьего VPN/Proxy"
+
+msgid "Square Config"
+msgstr "Четвертый маршрут"
+
+msgid "Square VPN/Proxy Enable"
+msgstr "Включить четвертый VPN/Proxy"
+
+msgid "Enable square VPN/Proxy configuration"
+msgstr "Включить конфигурацию четвертого VPN/Proxy"
 
 msgid "Connection Type"
 msgstr "Тип подключения"
