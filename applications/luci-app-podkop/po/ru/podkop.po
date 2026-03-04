@@ -25,7 +25,7 @@ msgstr "Третий маршрут"
 msgid "Triple VPN/Proxy Enable"
 msgstr "Включить третий VPN/Proxy"
 
-msgid "Enable secondary VPN/Proxy configuration"
+msgid "Enable triple VPN/Proxy configuration"
 msgstr "Включить конфигурацию третьего VPN/Proxy"
 
 msgid "Square Config"
