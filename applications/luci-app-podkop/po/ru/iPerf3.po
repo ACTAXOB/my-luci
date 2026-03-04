@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "TCP, UDP, and SCTP traffic generator for network throughput testing."
+msgstr "Генератор TCP, UDP и SCTP трафика для тестирования пропускной способности сети."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "iPerf3 server"
+msgstr "Сервер iPerf3"
+
+msgid "Server ip address to listen for incoming connections."
+msgstr "IP адрес сервера для прослушивания входящих соединений."
+
+msgid "iPerf3 port"
+msgstr "Порт iPerf3"
+
+msgid "The port to use for the iPerf3 connection."
+msgstr "Порт, используемый для подключения к iPerf3."
+
+msgid "Reverse"
+msgstr "Реверс"
+
+msgid "Run in reverse mode."
+msgstr "Запуск измерений в обратном режиме от удаленного хоста к серверу."
+
+msgid "iPerf3 client mode"
+msgstr "iPerf3 в режиме клиента"
+
+msgid "Start client"
+msgstr "Запустить клиент"
+
+msgid "iPerf3 server mode"
+msgstr "iPerf3 в режиме Сервера"
+
+msgid "Start server"
+msgstr "Запустить сервер"
+
+msgid "Stop server"
+msgstr "Остановить сервер"
